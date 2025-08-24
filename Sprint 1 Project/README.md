@@ -13,8 +13,6 @@ This project analyzes Airbnb listings data in New York City to uncover patterns 
 Many Airbnb hosts struggle with pricing strategies, understanding neighborhood trends, and identifying features that affect bookings. This analysis provides actionable insights to help hosts make data-driven decisions.
 
 **Tools and Technologies Used:**
-- Python (pandas, numpy, matplotlib, seaborn)
-- Jupyter Notebook / Google Colab
 - Excel for initial data exploration
 - GitHub for version control
 
