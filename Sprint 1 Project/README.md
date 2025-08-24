@@ -19,16 +19,20 @@ Many Airbnb hosts struggle with pricing strategies, understanding neighborhood t
 ---
 
 ## Data Overview
-- Dataset: `BA Sprint 1 Project - nyc_airbnb_data_v2.xlsx`
+- Dataset:[BA Sprint 1 Project - nyc_airbnb_data_v2.xlsx](https://github.com/user-attachments/files/21958636/BA.Sprint.1.Project.-.nyc_airbnb_data_v2.xlsx)
+
 - Description: Contains Airbnb listings information in NYC, including price, availability, neighborhood, and host data.
-- Source: [Include data source if applicable]
 
 ---
 
 ## Visuals
-Include screenshots or GIFs of your analysis here:
 
-![Example Visualization](link-to-your-image.png)
+<img width="600" height="371" alt="SUM COUNT OF AIRBNB SIZE IN NEW YORK " src="https://github.com/user-attachments/assets/9446ec03-87ba-48b9-8baa-326647437592" />
+<img width="600" height="371" alt="Top Ten Most Popular Neighborhoods by Total Number of Reviews" src="https://github.com/user-attachments/assets/51e2e5a9-5457-49c0-9dcb-433d3265c509" />
+<img width="600" height="371" alt="Top Ten Most Popular Neighborhoods by Total Number of Bedrooms" src="https://github.com/user-attachments/assets/780964e2-6c4e-40eb-b4d2-1b0e3b8906f7" />
+<img width="600" height="371" alt="Top Ten Most Popular Neighborhoods by Total Revenue" src="https://github.com/user-attachments/assets/e0756e45-e4a5-4c06-a510-2379a7a41b52" />
+
+
 
 ---
 
