@@ -36,32 +36,4 @@ Many Airbnb hosts struggle with pricing strategies, understanding neighborhood t
 
 ---
 
-## Live Demo / Project Page
-If applicable, link to your live dashboard, Colab notebook, or demo video:
-
-- [Google Colab Notebook](insert-link-here)
-- [Demo Video](insert-link-here)
-
----
-
-## Deployment and System Requirements
-To run this project locally:
-
-1. **System Requirements:**
-   - Python 3.10+
-   - Jupyter Notebook or Google Colab
-   - Required Python packages: pandas, numpy, matplotlib, seaborn, openpyxl
-
-2. **Installation:**
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/nyc-airbnb-analysis.git
-cd nyc-airbnb-analysis
-
-# Create a virtual environment (optional)
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-
+## Results
