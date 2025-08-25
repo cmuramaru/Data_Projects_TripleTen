@@ -4,6 +4,7 @@
 This project analyzes product returns from a retail superstore dataset using Tableau.
 The goal was to identify the scale of the return problem, uncover root causes, and provide a dashboard tool for ongoing monitoring.
 
+### 🔎 Key Insight: Our return rate is 27.05%, more than double the industry average of 3–10%.
 ### 🎯 Features & Functionality
 
 `Macro View`: Category-level analysis of return rates and costs.<br>
@@ -48,31 +49,3 @@ Tableau Desktop (2023.x or newer recommended)<br>
 Dataset: [Superstore.xls](https://github.com/user-attachments/files/21961297/Superstore.xls)
 
 Tableau Link: [Superstore Returns](https://public.tableau.com/views/CALMURAMARU-SUPERSTOREPROJECT-SPRINT4/SUBPROD?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-🚀 Deployment
-
-Download the Tableau workbook (.twb or .twbx).
-
-Open in Tableau Desktop (2023.x or newer).
-
-Connect to the dataset (CSV or Excel version included).
-
-Interact with filters, dashboards, and charts.
-
-📌 Roadmap
-
-Improve Dashboard Performance → Optimize calculations & filters for speed.
-
-Automated Updates → Connect to live sales data instead of static files.
-
-Customer Segmentation → Cluster analysis to flag chronic returners.
-
-Process Tracking → Add logistics KPIs (e.g., shipping issues, product defects).
-
-📚 Documentation
-
-Full project presentation: Supermarket Returns Presentation.mp4 (included in repo).
-
-Data source: Superstore Sales dataset (commonly used for Tableau demos).
-
-### 🔎 Key Insight: Our return rate is 27.05%, more than double the industry average of 3–10%.
