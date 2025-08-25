@@ -1,4 +1,4 @@
-# TripleTen Spring 3 Project - Shopper Habits and Retention Rates
+# TripleTen Sprint 3 Project - Shopper Habits and Retention Rates
 This project analyzes shopper habits and retention patterns using real user activity data. The goal was to understand where users drop off in the conversion funnel, how long they remain engaged after their first purchase, and what behaviors drive retention.
 
 ### ✨ Important Analysis Terms
