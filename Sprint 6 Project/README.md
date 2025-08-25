@@ -1,17 +1,12 @@
 # 🛍️ Shopify Sales Dashboard
-📝 Description
-
 This project is a Power BI Dashboard Template built to analyze Shopify store performance. It consolidates sales, customer, and product data to uncover actionable insights for e-commerce growth.
 
 The goal of this project is to:
 
-Help Shopify merchants monitor key KPIs (sales, revenue, profit margins).
-
-Identify top-selling products and seasonal trends.
-
-Optimize customer acquisition and retention strategies.
-
-Provide a plug-and-play Power BI solution for Shopify businesses.
+ - 📈 Help Shopify merchants monitor key KPIs (sales, revenue, profit margins).
+ - 🔎 Identify top-selling products and seasonal trends.
+ - 🛜 Optimize customer acquisition and retention strategies.
+ - 💰 Provide a plug-and-play Power BI solution for Shopify businesses.
 
 Tech Stack:
 
