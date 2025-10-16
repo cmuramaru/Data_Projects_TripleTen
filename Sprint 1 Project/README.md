@@ -37,3 +37,7 @@ Many Airbnb hosts struggle with pricing strategies, understanding neighborhood t
 ---
 
 ## Results
+
+ChatGPT said:
+
+The analysis of the NYC Airbnb dataset revealed clear spatial and economic patterns across the city. Most listings are concentrated in the Manhattan and Brooklyn areas, where entire apartments dominate and prices are notably higher than in other neighborhoods. The median nightly rate is around $120, but a small number of luxury listings skew the average upward. Availability varies widely, with some hosts renting full-time while others list only seasonally. Neighborhood and room type are the strongest predictors of price, while the number of reviews also shows a modest positive correlation. Overall, the data highlights how location, property type, and host activity collectively shape the pricing and accessibility of Airbnb stays in New York City.
